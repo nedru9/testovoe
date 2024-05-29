@@ -9,13 +9,13 @@
 
 ## ИНФОРМАЦИЯ О БД
 
-DB_CONNECTION=mysql
-DB_HOST=kurshefz.beget.tech 
-DB_PORT=3306 
-DB_DATABASE=kurshefz_laravel 
-DB_USERNAME=kurshefz_laravel 
-DB_PASSWORD=5*uFHxzY 
-Названия табоиц: sales, incomes, orders, stocks
+DB_CONNECTION=mysql <br>
+DB_HOST=kurshefz.beget.tech  <br>
+DB_PORT=3306  <br>
+DB_DATABASE=kurshefz_laravel  <br>
+DB_USERNAME=kurshefz_laravel  <br>
+DB_PASSWORD=5*uFHxzY  <br>
+Названия табоиц: sales, incomes, orders, stocks <br>
 
 
 ## About Laravel
