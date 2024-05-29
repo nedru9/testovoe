@@ -17,6 +17,9 @@ DB_USERNAME=kurshefz_laravel  <br>
 DB_PASSWORD=5*uFHxzY  <br>
 Названия табоиц: sales, incomes, orders, stocks <br>
 
+## ПРИМЕР ЗАПРОСА
+
+http://127.0.0.1:8000/api/incomes?dateFrom=2021-04-01&dateTo=2024-04-21&key=E6kUTYrYwZq2tN4QEtyzsbEBk3ie&page=2&limit=10
 
 ## About Laravel
 
