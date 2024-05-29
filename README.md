@@ -1,3 +1,4 @@
+DB_CONNECTION=mysql
 DB_HOST=kurshefz.beget.tech
 DB_PORT=3306
 DB_DATABASE=kurshefz_laravel
